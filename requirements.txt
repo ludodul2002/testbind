@@ -1,0 +1,5 @@
+aioredis==1.2.*
+black
+fastapi[all]==0.33.*
+pylint
+simpy==3.0.*
